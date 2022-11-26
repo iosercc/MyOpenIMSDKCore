@@ -1,0 +1,22 @@
+{
+  "name": "MyOpenIMSDKCore",
+  "version": "0.1.0",
+  "summary": "A short description of MyOpenIMSDKCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/whl/MyOpenIMSDKCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "whl": "358437932@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/whl/MyOpenIMSDKCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyOpenIMSDKCore/Classes/**/*"
+}
