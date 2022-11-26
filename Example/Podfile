@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MyOpenIMSDKCore_Tests' do
+  pod 'MyOpenIMSDKCore', :path => '../'
+  
+  
+end
